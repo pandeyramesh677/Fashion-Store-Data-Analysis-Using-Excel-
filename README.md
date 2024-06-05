@@ -1,7 +1,7 @@
 # Fashion Store Data Analysis Using Excel
 
 📍 Download the dataset from [here](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit#gid=1594378259).  
-📍 Download the complete [report](link-to-report) from here.
+📍 Download the complete report from [here](https://novyproo-my.sharepoint.com/:x:/r/personal/rameshkpandey12_novypro_com/_layouts/15/Doc.aspx?sourcedoc=%7BC919A5D4-142F-4CBF-9123-2BCBF9FB050E%7D&file=Fashion%20Store%20Data%20Analysis.xlsx&action=default&mobileredirect=true).
 
 ## Objective
 
